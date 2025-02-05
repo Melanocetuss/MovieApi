@@ -15,8 +15,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Requirements", "Requirement
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApi.Domain", "Core\MovieApi.Domain\MovieApi.Domain.csproj", "{CBAD359A-6243-4B1E-A823-C21B3924F824}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{B6528C25-673D-4B0A-AECE-3229978787A7}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +31,5 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CBAD359A-6243-4B1E-A823-C21B3924F824} = {E2F2C45F-DDB8-49BC-A9EB-53A8F878A187}
-		{B6528C25-673D-4B0A-AECE-3229978787A7} = {6063D7B6-A15C-45DE-BB98-91B5052AEE58}
 	EndGlobalSection
 EndGlobal
