@@ -46,9 +46,9 @@ namespace MovieApi.WebApi.Controllers
         }
 
         [HttpDelete]
-        public async Task<IActionResult> RemoveMovie(RemoveMovieCommand command)
+        public async Task<IActionResult> RemoveMovie(int id)
         {
-            await _removeMovieCommandHandler.Handle(command);
+            await _removeMovieCommandHandler.Handle(new RemoveMovieCommand(id));
             return Ok("Film Başarıyla Silindi");
         }
 
