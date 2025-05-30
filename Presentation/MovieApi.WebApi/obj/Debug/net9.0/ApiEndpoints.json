@@ -1,5 +1,79 @@
 [
   {
+    "ContainingType": "MovieApi.WebApi.Controllers.CastsController",
+    "Method": "CastList",
+    "RelativePath": "api/Casts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieApi.WebApi.Controllers.CastsController",
+    "Method": "CreateCast",
+    "RelativePath": "api/Casts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MovieApi.Application.Features.MediatorDesignPattern.Commands.CastCommands.CreateCastCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieApi.WebApi.Controllers.CastsController",
+    "Method": "RemoveCast",
+    "RelativePath": "api/Casts",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CastID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieApi.WebApi.Controllers.CastsController",
+    "Method": "UpdateCast",
+    "RelativePath": "api/Casts",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MovieApi.Application.Features.MediatorDesignPattern.Commands.CastCommands.UpdateCastCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieApi.WebApi.Controllers.CastsController",
+    "Method": "GetCast",
+    "RelativePath": "api/Casts/GetCast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CastID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MovieApi.WebApi.Controllers.CategoriesController",
     "Method": "CategoryList",
     "RelativePath": "api/Categories",
@@ -141,6 +215,80 @@
     "Parameters": [
       {
         "Name": "MovieID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieApi.WebApi.Controllers.TagsController",
+    "Method": "TagsList",
+    "RelativePath": "api/Tags",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieApi.WebApi.Controllers.TagsController",
+    "Method": "CreateTag",
+    "RelativePath": "api/Tags",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MovieApi.Application.Features.MediatorDesignPattern.Commands.TagCommands.CreateTagCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieApi.WebApi.Controllers.TagsController",
+    "Method": "RemoveTag",
+    "RelativePath": "api/Tags",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TagID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieApi.WebApi.Controllers.TagsController",
+    "Method": "UpdateTag",
+    "RelativePath": "api/Tags",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MovieApi.Application.Features.MediatorDesignPattern.Commands.TagCommands.UpdateTagCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieApi.WebApi.Controllers.TagsController",
+    "Method": "GetTag",
+    "RelativePath": "api/Tags/GetTag",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TagID",
         "Type": "System.Int32",
         "IsRequired": false
       }

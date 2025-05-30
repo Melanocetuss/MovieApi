@@ -166,3 +166,6 @@ C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Presentation\MovieA
 C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Presentation\MovieApi.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Presentation\MovieApi.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Presentation\MovieApi.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Presentation\MovieApi.WebApi\bin\Debug\net9.0\MediatR.dll
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Presentation\MovieApi.WebApi\bin\Debug\net9.0\MediatR.Contracts.dll
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Presentation\MovieApi.WebApi\obj\Debug\net9.0\MovieApi.WebApi.sourcelink.json

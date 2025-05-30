@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\alpha\\Desktop\\Project\\ASP.Net.NetC#Project\\MovieApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{944CCBE5-498C-403F-8EF4-B5EB06C52DF5}|Presentation\\MovieApi.WebApi\\MovieApi.WebApi.csproj|c:\\users\\alpha\\desktop\\project\\asp.net.netc#project\\movieapi\\presentation\\movieapi.webapi\\controllers\\castscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944CCBE5-498C-403F-8EF4-B5EB06C52DF5}|Presentation\\MovieApi.WebApi\\MovieApi.WebApi.csproj|solutionrelative:presentation\\movieapi.webapi\\controllers\\castscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,23 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CastsController.cs",
+              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\ASP.Net.NetC#Project\\MovieApi\\Presentation\\MovieApi.WebApi\\Controllers\\CastsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\MovieApi.WebApi\\Controllers\\CastsController.cs",
+              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\ASP.Net.NetC#Project\\MovieApi\\Presentation\\MovieApi.WebApi\\Controllers\\CastsController.cs",
+              "RelativeToolTip": "Presentation\\MovieApi.WebApi\\Controllers\\CastsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:01:13.374Z",
+              "EditorCaption": ""
             }
           ]
         }

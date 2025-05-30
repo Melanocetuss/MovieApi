@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\alpha\\Desktop\\Project\\ASP.Net.NetC#Project\\MovieApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2AB9244E-8A89-4F9C-9198-6C620381FF70}|Core\\MovieApi.Application\\MovieApi.Application.csproj|c:\\users\\alpha\\desktop\\project\\asp.net.netc#project\\movieapi\\core\\movieapi.application\\features\\mediatordesignpattern\\handlers\\taghandlers\\updatetagcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB9244E-8A89-4F9C-9198-6C620381FF70}|Core\\MovieApi.Application\\MovieApi.Application.csproj|solutionrelative:core\\movieapi.application\\features\\mediatordesignpattern\\handlers\\taghandlers\\updatetagcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB9244E-8A89-4F9C-9198-6C620381FF70}|Core\\MovieApi.Application\\MovieApi.Application.csproj|c:\\users\\alpha\\desktop\\project\\asp.net.netc#project\\movieapi\\core\\movieapi.application\\features\\mediatordesignpattern\\handlers\\taghandlers\\createtagcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB9244E-8A89-4F9C-9198-6C620381FF70}|Core\\MovieApi.Application\\MovieApi.Application.csproj|solutionrelative:core\\movieapi.application\\features\\mediatordesignpattern\\handlers\\taghandlers\\createtagcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944CCBE5-498C-403F-8EF4-B5EB06C52DF5}|Presentation\\MovieApi.WebApi\\MovieApi.WebApi.csproj|c:\\users\\alpha\\desktop\\project\\asp.net.netc#project\\movieapi\\presentation\\movieapi.webapi\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944CCBE5-498C-403F-8EF4-B5EB06C52DF5}|Presentation\\MovieApi.WebApi\\MovieApi.WebApi.csproj|solutionrelative:presentation\\movieapi.webapi\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{944CCBE5-498C-403F-8EF4-B5EB06C52DF5}|Presentation\\MovieApi.WebApi\\MovieApi.WebApi.csproj|c:\\users\\alpha\\desktop\\project\\asp.net.netc#project\\movieapi\\presentation\\movieapi.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{944CCBE5-498C-403F-8EF4-B5EB06C52DF5}|Presentation\\MovieApi.WebApi\\MovieApi.WebApi.csproj|solutionrelative:presentation\\movieapi.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB9244E-8A89-4F9C-9198-6C620381FF70}|Core\\MovieApi.Application\\MovieApi.Application.csproj|c:\\users\\alpha\\desktop\\project\\asp.net.netc#project\\movieapi\\core\\movieapi.application\\features\\mediatordesignpattern\\handlers\\casthandlers\\createcastcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB9244E-8A89-4F9C-9198-6C620381FF70}|Core\\MovieApi.Application\\MovieApi.Application.csproj|solutionrelative:core\\movieapi.application\\features\\mediatordesignpattern\\handlers\\casthandlers\\createcastcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944CCBE5-498C-403F-8EF4-B5EB06C52DF5}|Presentation\\MovieApi.WebApi\\MovieApi.WebApi.csproj|c:\\users\\alpha\\desktop\\project\\asp.net.netc#project\\movieapi\\presentation\\movieapi.webapi\\controllers\\castscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944CCBE5-498C-403F-8EF4-B5EB06C52DF5}|Presentation\\MovieApi.WebApi\\MovieApi.WebApi.csproj|solutionrelative:presentation\\movieapi.webapi\\controllers\\castscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +34,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateCastCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\ASP.Net.NetC#Project\\MovieApi\\Core\\MovieApi.Application\\Features\\MediatorDesignPattern\\Handlers\\CastHandlers\\CreateCastCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApi.Application\\Features\\MediatorDesignPattern\\Handlers\\CastHandlers\\CreateCastCommandHandler.cs",
+              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\ASP.Net.NetC#Project\\MovieApi\\Core\\MovieApi.Application\\Features\\MediatorDesignPattern\\Handlers\\CastHandlers\\CreateCastCommandHandler.cs",
+              "RelativeToolTip": "Core\\MovieApi.Application\\Features\\MediatorDesignPattern\\Handlers\\CastHandlers\\CreateCastCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:53:10.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateTagCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\ASP.Net.NetC#Project\\MovieApi\\Core\\MovieApi.Application\\Features\\MediatorDesignPattern\\Handlers\\TagHandlers\\UpdateTagCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApi.Application\\Features\\MediatorDesignPattern\\Handlers\\TagHandlers\\UpdateTagCommandHandler.cs",
+              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\ASP.Net.NetC#Project\\MovieApi\\Core\\MovieApi.Application\\Features\\MediatorDesignPattern\\Handlers\\TagHandlers\\UpdateTagCommandHandler.cs",
+              "RelativeToolTip": "Core\\MovieApi.Application\\Features\\MediatorDesignPattern\\Handlers\\TagHandlers\\UpdateTagCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:51:04.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateTagCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\ASP.Net.NetC#Project\\MovieApi\\Core\\MovieApi.Application\\Features\\MediatorDesignPattern\\Handlers\\TagHandlers\\CreateTagCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApi.Application\\Features\\MediatorDesignPattern\\Handlers\\TagHandlers\\CreateTagCommandHandler.cs",
+              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\ASP.Net.NetC#Project\\MovieApi\\Core\\MovieApi.Application\\Features\\MediatorDesignPattern\\Handlers\\TagHandlers\\CreateTagCommandHandler.cs",
+              "RelativeToolTip": "Core\\MovieApi.Application\\Features\\MediatorDesignPattern\\Handlers\\TagHandlers\\CreateTagCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:50:20.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\ASP.Net.NetC#Project\\MovieApi\\Presentation\\MovieApi.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\MovieApi.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\ASP.Net.NetC#Project\\MovieApi\\Presentation\\MovieApi.WebApi\\Program.cs",
+              "RelativeToolTip": "Presentation\\MovieApi.WebApi\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:43:27.76Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -26,15 +98,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\ASP.Net.NetC#Project\\MovieApi\\Presentation\\MovieApi.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\MovieApi.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\ASP.Net.NetC#Project\\MovieApi\\Presentation\\MovieApi.WebApi\\Program.cs",
-              "RelativeToolTip": "Presentation\\MovieApi.WebApi\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\ASP.Net.NetC#Project\\MovieApi\\Presentation\\MovieApi.WebApi\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\MovieApi.WebApi\\Controllers\\TagsController.cs",
+              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\ASP.Net.NetC#Project\\MovieApi\\Presentation\\MovieApi.WebApi\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "Presentation\\MovieApi.WebApi\\Controllers\\TagsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwDUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T23:32:01.607Z",
+              "WhenOpened": "2025-05-30T19:40:28.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CastsController.cs",
+              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\ASP.Net.NetC#Project\\MovieApi\\Presentation\\MovieApi.WebApi\\Controllers\\CastsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\MovieApi.WebApi\\Controllers\\CastsController.cs",
+              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\ASP.Net.NetC#Project\\MovieApi\\Presentation\\MovieApi.WebApi\\Controllers\\CastsController.cs",
+              "RelativeToolTip": "Presentation\\MovieApi.WebApi\\Controllers\\CastsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:40:30.307Z",
               "EditorCaption": ""
             }
           ]

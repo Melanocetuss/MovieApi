@@ -1,5 +1,5 @@
 ﻿using MediatR;
-using MovieApi.Application.Features.MediatorDesignPattern.Commands.CastCommands;
+using MovieApi.Application.Features.MediatorDesignPattern.Commands.TagCommands;
 using MovieApi.Domain.Entities;
 using MovieApi.Persistence.Context;
 using System;
@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace MovieApi.Application.Features.MediatorDesignPattern.Handlers.TagHandlers
 {
-    public class CreateTagCommandHandler : IRequestHandler<CreateCastCommand>
+    public class CreateTagCommandHandler : IRequestHandler<CreateTagCommand>
     {
         private readonly MovieContext _context;
         public CreateTagCommandHandler(MovieContext context)
@@ -18,9 +18,9 @@ namespace MovieApi.Application.Features.MediatorDesignPattern.Handlers.TagHandle
             _context = context;
         }
 
-        public async Task Handle(CreateCastCommand request, CancellationToken cancellationToken)
+        public async Task Handle(CreateTagCommand request, CancellationToken cancellationToken)
         {
-            _context.Tags.Add(new Tag
+            await _context.Tags.AddAsync(new Tag
             {
                 Name = request.Name
             });

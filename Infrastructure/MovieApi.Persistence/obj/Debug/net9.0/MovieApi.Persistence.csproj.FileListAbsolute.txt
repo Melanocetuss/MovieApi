@@ -15,3 +15,4 @@ C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Infrastructure\Movi
 C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.pdb
 C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.genruntimeconfig.cache
 C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\ref\MovieApi.Persistence.dll
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.sourcelink.json

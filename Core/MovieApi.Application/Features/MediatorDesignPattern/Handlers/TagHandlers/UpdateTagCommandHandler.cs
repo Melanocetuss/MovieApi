@@ -19,7 +19,7 @@ namespace MovieApi.Application.Features.MediatorDesignPattern.Handlers.TagHandle
 
         public async Task Handle(UpdateTagCommand request, CancellationToken cancellationToken)
         {
-            var values = _context.Tags.Find(request.TagID);
+            var values = await _context.Tags.FindAsync(request.TagID);
             values.Name = request.Name;
             await _context.SaveChangesAsync();
         }

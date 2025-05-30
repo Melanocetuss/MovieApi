@@ -9,3 +9,4 @@ C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Domai
 C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\refint\MovieApi.Domain.dll
 C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.pdb
 C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\ref\MovieApi.Domain.dll
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.sourcelink.json

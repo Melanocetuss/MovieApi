@@ -9,7 +9,6 @@ namespace MovieApi.Application.Features.MediatorDesignPattern.Commands.TagComman
 {
     public class CreateTagCommand : IRequest
     {
-        public int TagID { get; set; }
         public string Name { get; set; }
     }
 }
