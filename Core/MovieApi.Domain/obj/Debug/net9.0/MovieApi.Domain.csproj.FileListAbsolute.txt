@@ -1,0 +1,11 @@
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.deps.json
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.dll
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.pdb
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.AssemblyInfoInputs.cache
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.AssemblyInfo.cs
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.dll
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\refint\MovieApi.Domain.dll
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.pdb
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\ref\MovieApi.Domain.dll

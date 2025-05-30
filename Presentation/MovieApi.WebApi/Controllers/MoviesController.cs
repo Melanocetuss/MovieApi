@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using MovieApi.Application.Features.CQRS.Commands.MovieCommands;
-using MovieApi.Application.Features.CQRS.Handlers.MovieHandlers;
-using MovieApi.Application.Features.CQRS.Queries.MovieQueries;
+using MovieApi.Application.Features.CQRSDesignPattern.Commands.MovieCommands;
+using MovieApi.Application.Features.CQRSDesignPattern.Handlers.MovieHandlers;
+using MovieApi.Application.Features.CQRSDesignPattern.Queries.MovieQueries;
 
 namespace MovieApi.WebApi.Controllers
 {
@@ -15,7 +15,12 @@ namespace MovieApi.WebApi.Controllers
         private readonly CreateMovieCommandHandler _createMovieCommandHandler;
         private readonly UpdateMovieCommandHandler _updateMovieCommandHandler;
         private readonly RemoveMovieCommandHandler _removeMovieCommandHandler;
-        public MoviesController(GetMovieQueryHandler getMovieQueryHandler, GetMovieByIdQueryHandler getMovieByIdQueryHandler, CreateMovieCommandHandler createMovieCommandHandler, UpdateMovieCommandHandler updateMovieCommandHandler, RemoveMovieCommandHandler removeMovieCommandHandler)
+
+        public MoviesController(GetMovieQueryHandler getMovieQueryHandler,
+                                GetMovieByIdQueryHandler getMovieByIdQueryHandler,
+                                CreateMovieCommandHandler createMovieCommandHandler,
+                                UpdateMovieCommandHandler updateMovieCommandHandler,
+                                RemoveMovieCommandHandler removeMovieCommandHandler)
         {
             _getMovieQueryHandler = getMovieQueryHandler;
             _getMovieByIdQueryHandler = getMovieByIdQueryHandler;
@@ -31,10 +36,10 @@ namespace MovieApi.WebApi.Controllers
             return Ok(value);
         }
 
-        [HttpGet("{id}")]
-        public async Task<IActionResult> GetMovie(int id)
+        [HttpGet("GetMovie")]
+        public async Task<IActionResult> GetMovie(int MovieID)
         {
-            var value = await _getMovieByIdQueryHandler.Handle(new GetMovieByIdQuery(id));
+            var value = await _getMovieByIdQueryHandler.Handle(new GetMovieByIdQuery(MovieID));
             return Ok(value);
         }
 
@@ -42,21 +47,21 @@ namespace MovieApi.WebApi.Controllers
         public async Task<IActionResult> CreateMovie(CreateMovieCommand command)
         {
             await _createMovieCommandHandler.Handle(command);
-            return Ok("Film Başarıyla Eklendi");
+            return Ok("Film Ekleme İşlemi Başarılı.");
         }
 
         [HttpDelete]
-        public async Task<IActionResult> RemoveMovie(int id)
+        public async Task<IActionResult> RemoveMovie(int MovieID)
         {
-            await _removeMovieCommandHandler.Handle(new RemoveMovieCommand(id));
-            return Ok("Film Başarıyla Silindi");
+            await _removeMovieCommandHandler.Handle(new RemoveMovieCommand(MovieID));
+            return Ok("Film Silme İşlemi Başarılı.");
         }
 
         [HttpPut]
         public async Task<IActionResult> UpdateMovie(UpdateMovieCommand command)
         {
             await _updateMovieCommandHandler.Handle(command);
-            return Ok("Film Başarıyla Güncellendi");
+            return Ok("Film Güncelleme İşlemi Başarılı.");
         }
     }
 }

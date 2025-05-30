@@ -1,13 +1,13 @@
 using Microsoft.OpenApi.Models;
-using MovieApi.Application.Features.CQRS.Handlers.CategoryHandlers;
-using MovieApi.Application.Features.CQRS.Handlers.MovieHandlers;
+using MovieApi.Application.Features.CQRSDesignPattern.Handlers.CategoryHandlers;
+using MovieApi.Application.Features.CQRSDesignPattern.Handlers.MovieHandlers;
 using MovieApi.Persistence.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-#region Registrations
 
+#region Registirations
 builder.Services.AddDbContext<MovieContext>();
 
 builder.Services.AddScoped<GetCategoryQueryHandler>();
@@ -25,9 +25,9 @@ builder.Services.AddScoped<UpdateMovieCommandHandler>();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen(c =>
+builder.Services.AddSwaggerGen(c=> 
 {
-    c.SwaggerDoc("v1", new OpenApiInfo { Title = "My Api", Version = "v1" });   
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Movie API", Version = "v1" });
 });
 
 var app = builder.Build();
@@ -36,7 +36,10 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "My Api v1"));
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Movie API V1");
+    });
 }
 
 app.UseHttpsRedirection();

@@ -1,0 +1,17 @@
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Application\bin\Debug\net9.0\MovieApi.Application.deps.json
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Application\bin\Debug\net9.0\MovieApi.Application.dll
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Application\bin\Debug\net9.0\MovieApi.Application.pdb
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Application\bin\Debug\net9.0\MovieApi.Domain.dll
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Application\bin\Debug\net9.0\MovieApi.Persistence.dll
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Application\bin\Debug\net9.0\MovieApi.Persistence.pdb
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Application\bin\Debug\net9.0\MovieApi.Domain.pdb
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Application\obj\Debug\net9.0\MovieApi.Application.csproj.AssemblyReference.cache
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Application\obj\Debug\net9.0\MovieApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Application\obj\Debug\net9.0\MovieApi.Application.AssemblyInfoInputs.cache
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Application\obj\Debug\net9.0\MovieApi.Application.AssemblyInfo.cs
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Application\obj\Debug\net9.0\MovieApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Application\obj\Debug\net9.0\MovieApi.D1AEB976.Up2Date
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Application\obj\Debug\net9.0\MovieApi.Application.dll
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Application\obj\Debug\net9.0\refint\MovieApi.Application.dll
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Application\obj\Debug\net9.0\MovieApi.Application.pdb
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Core\MovieApi.Application\obj\Debug\net9.0\ref\MovieApi.Application.dll
