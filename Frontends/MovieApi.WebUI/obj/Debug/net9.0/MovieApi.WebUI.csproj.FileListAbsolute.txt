@@ -335,3 +335,5 @@ C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.
 C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\aier65rry6-ri9un8hm09.gz
 C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\b69m0y1tzl-hoq256bn03.gz
 C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\9tqnf5q42p-eetinn5flt.gz
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.WebUI\bin\Debug\net9.0\MovieApi.Dto.dll
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.WebUI\bin\Debug\net9.0\MovieApi.Dto.pdb

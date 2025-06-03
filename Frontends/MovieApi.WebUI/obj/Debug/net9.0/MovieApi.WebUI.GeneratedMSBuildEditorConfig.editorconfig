@@ -36,8 +36,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/alpha/Desktop/Project/ASP.Net.NetC\#Project/MovieApi/Frontends/MovieApi.WebUI/Views/Movie/MovieDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcTW92aWVEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/alpha/Desktop/Project/ASP.Net.NetC\#Project/MovieApi/Frontends/MovieApi.WebUI/Views/Movie/MovieList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcTW92aWVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/ASP.Net.NetC\#Project/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_MovieDetailOverviewComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01vdmllRGV0YWlsT3ZlcnZpZXdDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/ASP.Net.NetC\#Project/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_MovieDetailRateComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01vdmllRGV0YWlsUmF0ZUNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/ASP.Net.NetC\#Project/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_MovieDetailRelatedMoviesComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01vdmllRGV0YWlsUmVsYXRlZE1vdmllc0NvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/ASP.Net.NetC\#Project/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_MovieDetailShareSocialMediaComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01vdmllRGV0YWlsU2hhcmVTb2NpYWxNZWRpYUNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/ASP.Net.NetC\#Project/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_MovieImageAndWatchTrailerComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01vdmllSW1hZ2VBbmRXYXRjaFRyYWlsZXJDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/alpha/Desktop/Project/ASP.Net.NetC\#Project/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_UserWebUILayoutFooterComponentPartial/Default.cshtml]

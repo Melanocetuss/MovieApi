@@ -301,6 +301,10 @@
               "target": "Package",
               "version": "[9.0.5, )"
             },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
             "Swashbuckle.AspNetCore.SwaggerGen": {
               "target": "Package",
               "version": "[8.1.2, )"

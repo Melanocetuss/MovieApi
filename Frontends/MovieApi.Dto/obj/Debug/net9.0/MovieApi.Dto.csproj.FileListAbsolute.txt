@@ -1,0 +1,12 @@
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.Dto\bin\Debug\net9.0\MovieApi.Dto.deps.json
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.Dto\bin\Debug\net9.0\MovieApi.Dto.dll
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.Dto\bin\Debug\net9.0\MovieApi.Dto.pdb
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.AssemblyInfoInputs.cache
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.AssemblyInfo.cs
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.csproj.CoreCompileInputs.cache
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.sourcelink.json
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.dll
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.Dto\obj\Debug\net9.0\refint\MovieApi.Dto.dll
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.pdb
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.Dto\obj\Debug\net9.0\ref\MovieApi.Dto.dll

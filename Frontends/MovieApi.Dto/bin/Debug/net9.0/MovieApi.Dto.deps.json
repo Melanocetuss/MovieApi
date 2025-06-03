@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MovieApi.Dto/1.0.0": {
+        "runtime": {
+          "MovieApi.Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MovieApi.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
