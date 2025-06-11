@@ -337,3 +337,7 @@ C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.
 C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\9tqnf5q42p-eetinn5flt.gz
 C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.WebUI\bin\Debug\net9.0\MovieApi.Dto.dll
 C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.WebUI\bin\Debug\net9.0\MovieApi.Dto.pdb
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\alpha\Desktop\Project\ASP.Net.NetC#Project\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json

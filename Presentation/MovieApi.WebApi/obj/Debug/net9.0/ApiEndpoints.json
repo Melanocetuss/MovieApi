@@ -294,5 +294,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieApi.WebApi.Controllers.UserRegistersController",
+    "Method": "CreateUserRegister",
+    "RelativePath": "api/UserRegisters",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MovieApi.Application.Features.CQRSDesignPattern.Commands.UserRegisterCommands.CreateUserRegisterCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
